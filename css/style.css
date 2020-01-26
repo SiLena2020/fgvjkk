@@ -36,7 +36,7 @@ justify-content:space-between;
 margin-bottom:155px;
 }.hero-text {
 display: inline-block;
-flex-basis: 50%;
+flex-basis: 40%;
 }
 .hero-subtitle {
 margin-bottom: 14px;
@@ -354,6 +354,7 @@ margin-bottom: 38px;
 .hero-content {
 margin-bottom: 75px;
 align-items: center;
+flex-basis: 50%;
 	}	
 .social-link {
 margin-left: 5px;
